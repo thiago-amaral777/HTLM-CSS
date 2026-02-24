@@ -1,0 +1,32 @@
+@charset "UTF-8";
+       
+@import url('https://fonts.googleapis.com/css2?family=Limelight&display=swap');
+    
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&family=Limelight&display=swap');
+
+body {
+    font-family: Gowun Dodum;
+    font-size: 16px;
+}
+
+main {
+    
+}
+
+h2 {
+    font-weight: 900;
+    text-align: right;
+
+}
+
+h1 {
+    font-family: limelight;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
+
+    

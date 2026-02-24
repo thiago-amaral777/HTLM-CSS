@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #db4200;
+}
+
+a:hover {
+    color: white;
+    background-color: #db0000;
+    border-radius: 3px;
+    padding: 1px;
+}
+
+.cod {
+    background-color: darkgrey;
+    border-radius: 3px;
+    padding: 1px;
+}
